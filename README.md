@@ -4,6 +4,7 @@ Instalação e configuração do agent Zabbix no linux
 
 ## ✔️  O script executa as seguintes ações:
 
+- Validação o IP do servidor zabbix
 - Instalação do agent zabbix
 - Backup do arquivo zabbix_agentd.conf original
 - Alteração do IP do servidor no arquivo zabbix_agentd.conf
