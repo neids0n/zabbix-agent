@@ -1,5 +1,6 @@
 # 🔨 zabbix-agent
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neids0n/zabbix-agent">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/neids0n/zabbix-agent"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/neids0n/zabbix-agent"> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/neids0n/zabbix-agent">
+
 Instalação e configuração do agent Zabbix no linux
 
 ## ✔️  O script executa as seguintes ações:
